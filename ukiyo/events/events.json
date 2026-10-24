@@ -1,0 +1,13 @@
+{
+ "events": [
+  {
+   "id": "edo_matsuri_night",
+   "title": "Edo Night Matsuri",
+   "jp": "江戸の夜祭り",
+   "start": "2026-11-01T00:00:00+09:00",
+   "end": "2026-11-15T00:00:00+09:00",
+   "data": "edo_matsuri_night.json",
+   "v": "202610241410"
+  }
+ ]
+}
