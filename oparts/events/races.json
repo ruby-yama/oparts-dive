@@ -1,0 +1,95 @@
+{
+ "v": 1,
+ "races": [
+  {
+   "id": "r2610",
+   "name": "月蝕の回廊",
+   "sub": "遺跡走破レース 第1回",
+   "start": "2026-10-27",
+   "end": "2026-11-10",
+   "mech": "lunaflare",
+   "tier": 3,
+   "mod": "overclk",
+   "seed": 26102701,
+   "tries": 3,
+   "desc": "全員が同じ機体・同じ地図で潜る。\nどこまで深く進めるか。",
+   "rewards": [
+    {
+     "area": 2,
+     "crystal": 30
+    },
+    {
+     "area": 3,
+     "crystal": 50,
+     "data": 150
+    },
+    {
+     "area": 4,
+     "paint": "eclipse"
+    },
+    {
+     "area": 5,
+     "crystal": 100,
+     "op": 1
+    },
+    {
+     "area": 7,
+     "crystal": 200,
+     "title": "月蝕を越えた者"
+    }
+   ],
+   "cut": {
+    "mechs": [
+     "lunaflare"
+    ],
+    "tag": "新機体 先行体験",
+    "line": "月の共鳴。遠隔兵装が、二度飛ぶ。"
+   }
+  },
+  {
+   "id": "r2611",
+   "name": "紅蓮の進撃",
+   "sub": "遺跡走破レース 第2回",
+   "start": "2026-11-10",
+   "end": "2026-11-24",
+   "mech": "clastelm",
+   "tier": 3,
+   "mod": "giant",
+   "seed": 26111001,
+   "tries": 3,
+   "desc": "全員が同じ機体・同じ地図で潜る。\n敵は硬いが、倒すたびに強くなる。",
+   "rewards": [
+    {
+     "area": 2,
+     "crystal": 30
+    },
+    {
+     "area": 3,
+     "crystal": 50,
+     "data": 150
+    },
+    {
+     "area": 4,
+     "paint": "blaze"
+    },
+    {
+     "area": 5,
+     "crystal": 100,
+     "op": 1
+    },
+    {
+     "area": 7,
+     "crystal": 200,
+     "title": "紅蓮の勇者"
+    }
+   ],
+   "cut": {
+    "mechs": [
+     "clastelm"
+    ],
+    "tag": "新機体 先行体験",
+    "line": "倒すほど、強くなる。勇者の機体。"
+   }
+  }
+ ]
+}
