@@ -2,38 +2,38 @@
  "v": 1,
  "races": [
   {
-   "id": "r2610",
+   "id": "r2610b",
    "name": "月蝕の回廊",
    "sub": "遺跡走破レース 第1回",
    "start": "2026-10-30",
    "end": "2026-11-13",
    "mech": "lunaflare",
-   "tier": 1,
+   "tier": 3,
    "mod": "overclk",
    "seed": 26103001,
    "tries": 3,
-   "desc": "全員が同じ機体・同じ地図で潜る。\nどこまで深く進めるか。",
+   "desc": "全員が同じ機体・同じ地図で潜る。\nどこまで深く進めるか。\nエリアの主を倒すたびに、帰還して記録を確定できる。",
    "rewards": [
     {
-     "area": 2,
+     "area": 3,
      "crystal": 30
     },
     {
-     "area": 3,
+     "area": 4,
      "crystal": 50,
      "data": 150
     },
     {
-     "area": 4,
+     "area": 5,
      "paint": "eclipse"
     },
     {
-     "area": 5,
+     "area": 6,
      "crystal": 100,
      "op": 1
     },
     {
-     "area": 7,
+     "area": 8,
      "crystal": 200,
      "title": "月蝕を越えた者"
     }
@@ -44,6 +44,10 @@
     ],
     "tag": "新機体 先行体験",
     "line": "月の共鳴。遠隔兵装が、二度飛ぶ。"
+   },
+   "theme": {
+    "col": "#c05aff",
+    "n": "月蝕"
    }
   },
   {
@@ -53,32 +57,32 @@
    "start": "2026-11-13",
    "end": "2026-11-27",
    "mech": "clastelm",
-   "tier": 1,
+   "tier": 3,
    "mod": "giant",
    "seed": 26111301,
    "tries": 3,
-   "desc": "全員が同じ機体・同じ地図で潜る。\n敵は硬いが、倒すたびに強くなる。",
+   "desc": "全員が同じ機体・同じ地図で潜る。\n敵は硬いが、倒すたびに強くなる。\nエリアの主を倒すたびに、帰還して記録を確定できる。",
    "rewards": [
     {
-     "area": 2,
+     "area": 3,
      "crystal": 30
     },
     {
-     "area": 3,
+     "area": 4,
      "crystal": 50,
      "data": 150
     },
     {
-     "area": 4,
+     "area": 5,
      "paint": "blaze"
     },
     {
-     "area": 5,
+     "area": 6,
      "crystal": 100,
      "op": 1
     },
     {
-     "area": 7,
+     "area": 8,
      "crystal": 200,
      "title": "紅蓮の勇者"
     }
@@ -89,6 +93,10 @@
     ],
     "tag": "新機体 先行体験",
     "line": "倒すほど、強くなる。勇者の機体。"
+   },
+   "theme": {
+    "col": "#ff6a2a",
+    "n": "紅蓮"
    }
   }
  ]
