@@ -138,18 +138,37 @@
  ],
  "notice": [
   {
+   "id": "upd1112",
+   "from": "2026-11-12",
+   "to": "2026-11-30",
+   "title": "アップデートについて／Updates",
+   "text": "続けてアップデートが入ってしまい、申し訳ありません。\n1.3.6 では英語への対応と、遊ばれ方の数字を集めて整理していくための仕組みを入れました。\nしばらくは細かいアップデートを控え、まとめて出すようにします。急ぎの不具合は、なるべくサーバー側で直します。\n\nSorry for the back-to-back updates. 1.3.6 adds English and a way to learn how the game is played. We will now bundle fixes into fewer updates, and fix urgent issues on our server when we can.",
+   "title_ja": "アップデートについて",
+   "text_ja": "続けてアップデートが入ってしまい、申し訳ありません。\n1.3.6 では英語への対応と、遊ばれ方の数字を集めて整理していくための仕組みを入れました。\nしばらくは細かいアップデートを控え、まとめて出すようにします。急ぎの不具合は、なるべくサーバー側で直します。",
+   "title_en": "About updates",
+   "text_en": "Sorry for the back-to-back updates. 1.3.6 adds English and a way to learn how the game is played. We will now bundle fixes into fewer updates, and fix urgent issues on our server when we can."
+  },
+  {
    "id": "arena1109b",
    "from": "2026-11-09",
    "to": "2026-11-30",
-   "title": "闘技場の「格上・格下」の表示について",
-   "text": "闘技場の相手に出る「格上・互角・格下」は、機体の強さ（勝ちやすさ）で決めています。\n一方、全国の点（季の順位）は機体の強さではなく、勝ち負けと相手の全国の点で増えたり減ったりします。\nそのため「格下」と出ている相手でも、全国の点が自分より上の人に勝つと、点が多く入ります。表示と点の入り方が合っていない状態です。\n11月9日から、相手の候補に「全国の点が自分より上の人・近い人・下の人」が出るようにしました。\n表示は今後のアップデートで直します。少し時間がかかるかもしれません。ご迷惑をおかけします。"
+   "title": "闘技場の表示について／Arena",
+   "text": "闘技場の「格上・格下」は機体の強さで決めていますが、全国の点は勝ち負けと相手の全国の点で増減します。そのため表示と点の入り方が合っていません。11月9日から、相手に「全国の点が上・近い・下の人」が出るようにしました。表示は今後直します。\n\nIn the Arena, \"stronger/weaker\" is based on mech power, but your global score depends on wins and your opponent's score, so they may not match. Opponents now include players above, near and below your score.",
+   "title_en": "About the Arena",
+   "text_en": "In the Arena, \"stronger/weaker\" is based on mech power, but your global score depends on wins and your opponent's score, so they may not match. Opponents now include players above, near and below your score.",
+   "text_ja": "闘技場の「格上・格下」は機体の強さで決めていますが、全国の点は勝ち負けと相手の全国の点で増減します。そのため表示と点の入り方が合っていません。11月9日から、相手に「全国の点が上・近い・下の人」が出るようにしました。表示は今後直します。",
+   "title_ja": "闘技場の「格上・格下」の表示について"
   },
   {
    "id": "pass1111",
    "from": "2026-11-11",
    "to": "2026-11-24",
-   "title": "シーズンパス「紅蓮」開幕",
-   "text": "シーズンパス「紅蓮」が始まりました（12月9日まで）。\n潜行・闘技場・毎日の任務で経験がたまり、30段まで報酬がもらえます。\nだれでももらえる報酬のほか、有料の列（480円）では限定の見た目がもらえます。\n格納庫の右上の「PASS」から見られます。"
+   "title": "シーズンパス「紅蓮」／Season Pass",
+   "text": "シーズンパス「紅蓮」が始まりました（12月9日まで）。\n潜行・闘技場・毎日の任務で経験がたまり、30段まで報酬がもらえます。\nだれでももらえる報酬のほか、有料の列（480円）では限定の見た目がもらえます。\n格納庫の右上の「PASS」から見られます。\n\nSeason Pass \"Guren\" is live until Dec 9. Earn XP from dives, the Arena and daily missions for rewards up to tier 30. The paid track has exclusive looks. Tap \"PASS\" at the top right of the hangar.",
+   "title_ja": "シーズンパス「紅蓮」開幕",
+   "text_ja": "シーズンパス「紅蓮」が始まりました（12月9日まで）。\n潜行・闘技場・毎日の任務で経験がたまり、30段まで報酬がもらえます。\nだれでももらえる報酬のほか、有料の列（480円）では限定の見た目がもらえます。\n格納庫の右上の「PASS」から見られます。",
+   "title_en": "Season Pass",
+   "text_en": "Season Pass \"Guren\" is live until Dec 9. Earn XP from dives, the Arena and daily missions for rewards up to tier 30. The paid track has exclusive looks. Tap \"PASS\" at the top right of the hangar."
   }
  ]
 }
