@@ -142,9 +142,9 @@
    "from": "2026-11-12",
    "to": "2026-11-30",
    "title": "アップデートについて／Updates",
-   "text": "続けてアップデートが入ってしまい、申し訳ありません。\n1.3.6 では英語への対応と、遊ばれ方の数字を集めて整理していくための仕組みを入れました。\nしばらくは細かいアップデートを控え、まとめて出すようにします。急ぎの不具合は、なるべくサーバー側で直します。\n\nSorry for the back-to-back updates. 1.3.6 adds English and a way to learn how the game is played. We will now bundle fixes into fewer updates, and fix urgent issues on our server when we can.",
+   "text": "続けてアップデートが入ってしまい、申し訳ありません。\n1.3.6では英語への対応と、遊ばれ方の数字を集めて整理していくための仕組みを入れました。\nしばらくは細かいアップデートを控え、まとめて出すようにします。急ぎの不具合は、なるべくサーバー側で直します。\n\nSorry for the back-to-back updates. 1.3.6 adds English and a way to learn how the game is played. We will now bundle fixes into fewer updates, and fix urgent issues on our server when we can.",
    "title_ja": "アップデートについて",
-   "text_ja": "続けてアップデートが入ってしまい、申し訳ありません。\n1.3.6 では英語への対応と、遊ばれ方の数字を集めて整理していくための仕組みを入れました。\nしばらくは細かいアップデートを控え、まとめて出すようにします。急ぎの不具合は、なるべくサーバー側で直します。",
+   "text_ja": "続けてアップデートが入ってしまい、申し訳ありません。\n1.3.6では英語への対応と、遊ばれ方の数字を集めて整理していくための仕組みを入れました。\nしばらくは細かいアップデートを控え、まとめて出すようにします。急ぎの不具合は、なるべくサーバー側で直します。",
    "title_en": "About updates",
    "text_en": "Sorry for the back-to-back updates. 1.3.6 adds English and a way to learn how the game is played. We will now bundle fixes into fewer updates, and fix urgent issues on our server when we can."
   },
