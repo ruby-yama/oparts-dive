@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "races": [
   {
    "id": "r2610b",
@@ -273,6 +273,21 @@
  ],
  "notice": [
   {
+   "id": "og1",
+   "from": "2026-11-19",
+   "to": "2026-12-21",
+   "img": "og",
+   "url": "https://apps.apple.com/jp/app/id6834894960",
+   "title_ja": "新作「ORANGE GEAR」",
+   "btn_ja": "App Store で見る",
+   "text_ja": "OPARTS DIVE の開発者の新作「ORANGE GEAR ― OPARTS ZERO」が配信中です。\n舞台は、オーパーツが生まれる三百年前の世界。はさんで倒す・部品で組むバトルRPGです。\n\n配信記念イベント「前史の残響」も開催中。\n遺跡に ORANGE GEAR の敵があらわれ、\nミカ仕様のストライカーで潜れます。\nオーラ「オレンジ・ギア」と「ミカ仕様」の姿ももらえます。\n\nイベントは、アプリを最新版（1.4.0）にすると参加できます。",
+   "title_en": "New game: ORANGE GEAR",
+   "btn_en": "View on the App Store",
+   "text_en": "ORANGE GEAR - OPARTS ZERO, the new game from the developer of OPARTS DIVE, is out now: a battle RPG set 300 years before the Oparts.\n\nLaunch event \"Echoes of the Prehistory\": ORANGE GEAR enemies invade the ruins and you dive as Mika-style Striker. Earn the \"Orange Gear\" aura and the \"Mika\" look.\n\nUpdate to version 1.4.0 to join the event.",
+   "text": "OPARTS DIVE の開発者の新作「ORANGE GEAR ― OPARTS ZERO」が配信中です。\n舞台は、オーパーツが生まれる三百年前の世界。はさんで倒す・部品で組むバトルRPGです。\n\n配信記念イベント「前史の残響」も開催中。\n遺跡に ORANGE GEAR の敵があらわれ、\nミカ仕様のストライカーで潜れます。\nオーラ「オレンジ・ギア」と「ミカ仕様」の姿ももらえます。\n\nイベントは、アプリを最新版（1.4.0）にすると参加できます。",
+   "title": "新作「ORANGE GEAR」"
+  },
+  {
    "id": "pass1111",
    "from": "2026-11-11",
    "to": "2026-11-24",
@@ -304,6 +319,60 @@
    "text_ja": "今年も OPARTS DIVE をよろしくお願いします。\n年越しの塔は1月8日まで。何階まで登れたか、ぜひ挑戦してみてください。",
    "title_en": "Happy New Year",
    "text_en": "Happy New Year from OPARTS DIVE! The New Year Tower runs until Jan 8. How high can you climb?"
+  }
+ ],
+ "races2": [
+  {
+   "id": "rog1",
+   "name": "前史の残響",
+   "sub": "ORANGE GEAR 配信記念",
+   "start": "2026-11-19",
+   "end": "2026-12-11",
+   "mech": "striker",
+   "tier": 3,
+   "mod": "overclk",
+   "seed": 26112701,
+   "tries": 3,
+   "desc": "三百年前に止められた「芯」の残響が、遺跡の奥で目を覚ました。\n遺跡に ORANGE GEAR の敵があらわれる。\n全員がミカ仕様のストライカーで潜る。\nORANGE GEAR を遊んでいなくても、\nだれでも参加できる。",
+   "rewards": [
+    {
+     "area": 2,
+     "crystal": 20
+    },
+    {
+     "area": 3,
+     "crystal": 30
+    },
+    {
+     "area": 5,
+     "aura": "ogear"
+    },
+    {
+     "area": 6,
+     "crystal": 40,
+     "data": 300,
+     "op": 1
+    },
+    {
+     "area": 8,
+     "crystal": 60,
+     "title": "前史を継ぐ者",
+     "paint": "ogmika"
+    }
+   ],
+   "cut": {
+    "mechs": [
+     "striker"
+    ],
+    "tag": "ORANGE GEAR 配信記念",
+    "line": "三百年前の残響を、越えていけ。"
+   },
+   "theme": {
+    "col": "#ff8a2a",
+    "n": "前史"
+   },
+   "world": "og",
+   "skin": "ogmika"
   }
  ]
 }
