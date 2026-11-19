@@ -4,10 +4,18 @@
 <style>body{font-family:system-ui,"Yu Gothic UI",Meiryo,sans-serif;max-width:760px;margin:0 auto;padding:24px;line-height:1.8;color:#1a1f2b}h1{font-size:1.5em}h2{font-size:1.15em;margin-top:2em;border-left:4px solid #e8650a;padding-left:8px}small{color:#667}</style></head>
 <body>
 <h1>ORANGE GEAR プライバシーポリシー</h1>
-<p><small>制定日：2026年11月15日</small></p>
+<p><small>制定日：2026年11月15日　改定日：2026年11月20日（「助っ人」の機能について追記）</small></p>
 <p>ruby-yama（以下「開発者」）は、スマートフォン向けゲーム「ORANGE GEAR」（以下「本アプリ」）における利用者の情報の取り扱いを、以下のとおり定めます。</p>
 <h2>1. 開発者が集める情報</h2>
-<p>開発者は、利用者の氏名・メールアドレス・電話番号などの個人を特定できる情報を集めません。ゲームの進み具合や設定（セーブデータ）は、利用者の端末の中だけに保存され、開発者のサーバーには送られません。</p>
+<p>開発者は、利用者の氏名・メールアドレス・電話番号などの個人を特定できる情報を集めません。ゲームの進み具合や設定（セーブデータ）は、利用者の端末の中に保存されます。</p>
+<p>「助っ人」の機能（ほかの利用者のキャラクターを借りる・自分のキャラクターを貸す）を使うために、次の情報を開発者のサーバー（Cloudflare, Inc. のサービス上）に送り、保存します。</p>
+<ul>
+<li>端末ごとに自動で作る匿名のID（個人を特定する情報とは結びつきません）</li>
+<li>アプリの中で決めた名前（10文字まで。はじめは自動で付きます。本名や連絡先は入れないでください）</li>
+<li>助っ人に出しているキャラクターの内容（キャラクターの種類・★・レベル・部品の並び・ゲームの進み具合の番号）</li>
+<li>助っ人を借りた／借りられた回数と日付</li>
+</ul>
+<p>これらは、助っ人の一覧を出すこと、借りられたお礼をゲームの中で渡すこと、不正な使い方を防ぐことだけに使います。広告や分析には使いません。通信の時に、不正な使い方を防ぐためにIPアドレスを一時的に扱うことがあります（保存するのは1日ごとの回数だけです）。</p>
 <h2>2. 広告（Google AdMob）</h2>
 <p>本アプリは、広告を表示するために Google LLC の「Google AdMob」を使います。AdMob は、広告の表示・効果の測定・不正の防止のために、広告ID・端末の情報・おおまかな位置（IPアドレスから推定）などを集めることがあります。iPhone では、最初に「追跡の許可」をおたずねします。許可しなくても、本アプリはそのまま遊べます（その場合、パーソナライズされない広告が表示されます）。集められた情報の扱いは、Google のポリシーに従います。</p>
 <ul>
@@ -18,11 +26,13 @@
 <p>アプリ内の購入は、App Store（Apple）または Google Play（Google）の決済で行われます。支払いの情報は Apple または Google が扱い、開発者はカード番号などの支払い情報を受け取りません。開発者が受け取るのは、購入した商品と、購入を確かめるための情報だけです。</p>
 
 <h2>4. 情報の第三者への提供</h2>
-<p>開発者は、上記2・3のサービスを除き、利用者の情報を第三者に提供しません。法令にもとづく場合はこの限りではありません。</p>
+<p>開発者は、上記2・3のサービスを除き、利用者の情報を第三者に提供しません。サーバーの運用には Cloudflare, Inc. のサービスを使っています。法令にもとづく場合はこの限りではありません。</p>
 <h2>5. データの削除</h2>
-<p>セーブデータは、本アプリの「設定」→「データを消す」、またはアプリの削除で消えます。</p>
+<p>セーブデータは、本アプリの「設定」→「データを消す」、またはアプリの削除で消えます。「データを消す」を行うと、サーバーに保存されている匿名のID・名前・助っ人の内容・貸し借りの記録も同時に消えます。アプリを削除しただけの場合、サーバーのデータは残ることがあります（30日のあいだアプリを開かないと、助っ人の一覧には出なくなります）。消したい時は、削除の前に「データを消す」を行うか、下記の連絡先までお知らせください。</p>
 <h2>6. このポリシーの変更</h2>
 <p>内容を変える場合は、このページでお知らせします。</p>
 <h2>7. お問い合わせ</h2>
 <p><a href="mailto:ruby.yamamoto.ai@gmail.com">ruby.yamamoto.ai@gmail.com</a></p>
+<h2>English summary</h2>
+<p><b>Helper feature.</b> To let players lend and borrow characters, the app sends the following to the developer's server (hosted on Cloudflare): an anonymous ID generated per device, a display name (up to 10 characters; please do not enter your real name), the lent character's setup (character, stars, level, part layout, progress number), and counts/dates of borrowing. This data is used only to show the helper list, deliver in-game thank-you chips, and prevent abuse. It is not used for ads or analytics. "Erase data" in Settings deletes this server data as well.</p>
 </body></html>
