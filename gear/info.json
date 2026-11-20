@@ -1,0 +1,15 @@
+{
+ "news": [
+  {
+   "id": "n_fest1",
+   "from": "2026-11-21",
+   "t": "花火まつり 開催中／闘技場オープン",
+   "b": "期間限定のイベント「花火まつり」を開催しています（12/16 まで）。\n第1章を突破すると参加できます。イベント券を集めて箱を開けると、限定の武器「花火筒」が手に入ります。\n\n「闘技場」がオープンしました（第1章を突破すると開きます）。\n・芯の討伐：みんなで1体の芯にダメージを与えて、合計と順位を競います（1日3回）。\n・対人戦：ほかの人のチームと戦って、レートを上げます（1日5回）。週の終わりのレートでクリスタルがもらえます。",
+   "en": {
+    "t": "Fireworks Festival is live / Arena open",
+    "b": "The limited-time event \"Fireworks Festival\" is on until Dec 16.\nClear Chapter 1 to join. Collect event tickets and open boxes to get the limited weapon \"Firework Mortar\".\n\nThe Arena is now open (clear Chapter 1 to enter).\n- Core Raid: everyone damages one core together and competes on total and rank (3 runs a day).\n- Versus: fight other players' teams and raise your rating (5 fights a day). Your rating at the end of the week earns crystals."
+   }
+  }
+ ],
+ "mail": []
+}
