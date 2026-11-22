@@ -299,17 +299,6 @@
    "text_en": "Season Pass \"Guren\" is live until Dec 9. Earn XP from dives, the Arena and daily missions for rewards up to tier 30. The paid track has exclusive looks. Tap \"PASS\" at the top right of the hangar."
   },
   {
-   "id": "pass2",
-   "from": "2026-12-09",
-   "to": "2026-12-20",
-   "title": "シーズンパス第2季「氷晶」／Season Pass 2",
-   "text": "シーズンパス第2季「氷晶」が始まりました（1月6日まで）。\n氷晶の盾・光のティアラ・凍る撃破演出など、氷の見た目セットが手に入ります。研究データもたっぷり。\n\nSeason Pass 2 \"HYOSHO\" has started (until Jan 6). Get the ice look set: Ice Crystal Shield, Light Tiara, freezing defeat effect, and more research DATA.",
-   "title_ja": "シーズンパス第2季「氷晶」",
-   "text_ja": "シーズンパス第2季「氷晶」が始まりました（1月6日まで）。\n氷晶の盾・光のティアラ・凍る撃破演出など、氷の見た目セットが手に入ります。研究データもたっぷり。",
-   "title_en": "Season Pass 2 \"HYOSHO\"",
-   "text_en": "Season Pass 2 \"HYOSHO\" has started (until Jan 6). Get the ice look set: Ice Crystal Shield, Light Tiara, freezing defeat effect, and more research DATA."
-  },
-  {
    "id": "ny2027",
    "from": "2026-12-31",
    "to": "2027-01-07",
@@ -326,11 +315,11 @@
    "to": "2026-12-23",
    "img": "pass2",
    "title_ja": "シーズンパス「氷晶」開幕",
-   "text_ja": "シーズンパス第2季「氷晶」が始まりました（1月6日まで）。\n潜行・闘技場・毎日の任務で経験がたまり、30段まで報酬がもらえます。\n\n有料の列（480円）の12段では、ルナフレア専用の姿「聖夜」がもらえます。\nツインテールのアイドルサンタになったルナフレアです。\n\n格納庫の右上の「PASS」から見られます。\n「聖夜」はアプリを最新版にするともらえます。",
+   "text_ja": "シーズンパス第2季「氷晶」が始まりました（1月6日まで）。\n潜行・闘技場・毎日の任務で経験がたまり、30段まで報酬がもらえます。\n氷晶の盾・光のティアラ・凍る撃破演出など、氷の見た目セットも手に入ります。\n\n有料の列（480円）の12段では、ルナフレア専用の姿「聖夜」がもらえます。\nツインテールのアイドルサンタになったルナフレアです。\n\n格納庫の右上の「PASS」から見られます。\n「聖夜」はアプリを最新版にするともらえます。",
    "title_en": "Season Pass \"Hyosho\"",
-   "text_en": "Season Pass 2 \"Hyosho\" is live until Jan 6. Earn XP from dives, the Arena and daily missions for rewards up to tier 30.\n\nTier 12 of the paid track (480 yen) unlocks \"Seiya\", a Lunaflare-only look: Lunaflare as a twin-tailed idol Santa.\n\nTap \"PASS\" at the top right of the hangar. Update the app to the latest version to get \"Seiya\".",
-   "title": "シーズンパス「氷晶」／Season Pass",
-   "text": "シーズンパス第2季「氷晶」が始まりました（1月6日まで）。\n潜行・闘技場・毎日の任務で経験がたまり、30段まで報酬がもらえます。\n\n有料の列（480円）の12段では、ルナフレア専用の姿「聖夜」がもらえます。\nツインテールのアイドルサンタになったルナフレアです。\n\n格納庫の右上の「PASS」から見られます。\n「聖夜」はアプリを最新版にするともらえます。\n\nSeason Pass 2 \"Hyosho\" is live until Jan 6. Earn XP from dives, the Arena and daily missions for rewards up to tier 30.\n\nTier 12 of the paid track (480 yen) unlocks \"Seiya\", a Lunaflare-only look: Lunaflare as a twin-tailed idol Santa.\n\nTap \"PASS\" at the top right of the hangar. Update the app to the latest version to get \"Seiya\"."
+   "text_en": "Season Pass 2 \"Hyosho\" is live until Jan 6. Earn XP from dives, the Arena and daily missions for rewards up to tier 30, including the ice look set.\n\nTier 12 of the paid track (480 yen) unlocks \"Seiya\", a Lunaflare-only look: Lunaflare as a twin-tailed idol Santa.\n\nTap \"PASS\" at the top right of the hangar. Update the app to the latest version to get \"Seiya\".",
+   "title": "シーズンパス第2季「氷晶」／Season Pass 2",
+   "text": "シーズンパス第2季「氷晶」が始まりました（1月6日まで）。\n氷晶の盾・光のティアラ・凍る撃破演出など、氷の見た目セットが手に入ります。ルナフレア専用の姿「聖夜」は、アプリを最新版にするともらえます。\n\nSeason Pass 2 \"Hyosho\" has started (until Jan 6). Get the ice look set. Update the app to get \"Seiya\", a Lunaflare-only look."
   }
  ],
  "races2": [
