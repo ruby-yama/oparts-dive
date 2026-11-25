@@ -1,6 +1,20 @@
 {
  "news": [
   {
+   "id": "n_site",
+   "from": "2026-11-25",
+   "img": "site",
+   "url": "https://rubygames.net/games/orange-gear/?from=gear-news",
+   "btn": "公式サイトを開く",
+   "t": "公式サイト「ruby games」オープン",
+   "b": "ORANGE GEAR の攻略Wikiと攻略ガイドがのった公式サイト「ruby games」を作りました。\nキャラのランク・リセマラ・部品・敵の情報をまとめています。\n\nhttps://rubygames.net\n\nアプリを最新版（1.0.7）にすると、設定の「攻略Wiki・攻略ガイド（公式サイト）」からも開けます。",
+   "en": {
+    "t": "Official site \"ruby games\" is open",
+    "b": "We opened the official site \"ruby games\" with the ORANGE GEAR wiki and strategy guide.\nIt covers character ranks, rerolling, parts and enemies.\n\nhttps://rubygames.net\n\nAfter updating to the latest version (1.0.7), you can also open it from \"Wiki & Strategy Guide (Official Site)\" in Settings.",
+    "btn": "Open the Site"
+   }
+  },
+  {
    "id": "n_fest1",
    "from": "2026-11-21",
    "t": "花火まつり 開催中／闘技場オープン",

@@ -378,6 +378,21 @@
  ],
  "notice2": [
   {
+   "id": "site1125",
+   "from": "2026-11-25",
+   "to": "2026-12-25",
+   "img": "site",
+   "url": "https://rubygames.net/games/oparts-dive/?from=oparts-news",
+   "title_ja": "公式サイト「ruby games」オープン",
+   "title_en": "Official site is open",
+   "btn_ja": "公式サイトを開く",
+   "btn_en": "Open the Site",
+   "text_ja": "OPARTS DIVE の攻略Wikiと攻略ガイドがのった公式サイト「ruby games」を作りました。\n機体・パーツ・回路・遺物・敵のデータと、おすすめの組み方をまとめています。\n\nアプリを最新版（1.4.4）にすると、設定の「攻略Wiki・攻略ガイド（公式サイト）」からも開けます。",
+   "text_en": "We opened the official site \"ruby games\" with the OPARTS DIVE wiki and strategy guide.\nIt covers mechs, parts, circuits, relics, enemies and recommended builds.\n\nAfter updating to the latest version (1.4.4), you can also open it from \"Wiki & Strategy Guide (Official Site)\" in Settings.",
+   "title": "公式サイト「ruby games」オープン",
+   "text": "OPARTS DIVE の攻略Wikiと攻略ガイドがのった公式サイト「ruby games」を作りました。\n機体・パーツ・回路・遺物・敵のデータと、おすすめの組み方をまとめています。\n\nアプリを最新版（1.4.4）にすると、設定の「攻略Wiki・攻略ガイド（公式サイト）」からも開けます。"
+  },
+  {
    "id": "guren1119",
    "from": "2026-11-19",
    "to": "2026-11-27",
