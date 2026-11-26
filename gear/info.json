@@ -1,6 +1,20 @@
 {
  "news": [
   {
+   "id": "n_ship1",
+   "from": "2026-11-26",
+   "img": "ship",
+   "url": "https://apps.apple.com/jp/app/id6838352120",
+   "btn": "App Store で見る",
+   "t": "新作「船組みハクスラ 大航海」",
+   "b": "ORANGE GEAR の開発者の新作です。理想の大航海ゲームができました。\n\nOPARTS DIVE で育てたバックパック（マスに部品を組む）を船に持ちこみ、交易・海戦・対人戦をもりもり詰めこんだハクスラ大航海ゲームです。\n\n部品をつなぐと大砲が三方向に撃てたり、連携技が出たり。海賊を沈めて部品を奪い、相場を読んで稼ぎ、世界の海の主に挑みます。",
+   "en": {
+    "t": "New game: Shipcraft Plunder Voyage",
+    "btn": "View on the App Store",
+    "b": "A new game from the developer of ORANGE GEAR: our ideal age-of-sail game.\n\nThe backpack system grown in OPARTS DIVE (fit parts into a grid) now builds ships, packed with trading, naval battles and PvP in a hack-and-slash voyage.\n\nLink parts to fire cannons three ways or unleash combo skills. Sink pirates, loot parts, play the markets and challenge the lords of the seas."
+   }
+  },
+  {
    "id": "n_site",
    "from": "2026-11-25",
    "img": "site",
