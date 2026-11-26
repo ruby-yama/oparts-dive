@@ -418,5 +418,19 @@
    "title": "「紅蓮の進撃」の入り方",
    "text": "今の版では、「挑戦」の一覧に「紅蓮の進撃」が出ていません。ご迷惑をおかけしてすみません。\n\nイベントの帯（前史の残響）を押し、画面の下にある「紅蓮の進撃も開催中」の札から遊べます。\n\n次のアップデートで直します。"
   }
+ ],
+ "notice4": [
+  {
+   "id": "shin145",
+   "from": "2026-11-27",
+   "to": "2026-12-31",
+   "img": "shin",
+   "title": "新機体「シン」",
+   "text": "近接特化の新機体「シン」が登場。開発の「近接兵装」から作れます（ティア3から）。",
+   "title_ja": "新機体「シン」",
+   "title_en": "New mech: SHIN",
+   "text_ja": "白い狼の新機体「シン」が登場しました。\n\n・近接武器に特化。近接を当てるたびに、次の一撃が速くなる「群狼」\n・新しい近接の部品：大太刀・双牙の爪・鎖鎌・研ぎ石・鞘・狼の紋章\n・近接の強化と遺物も追加\n・ファントムも強化：回避した直後の近接は必ず会心\n\n開発の「近接兵装」→「機体：シン」で作れます（ティア3から）。\nシンだけの裏回路もあります。ヒントは回路図鑑で。",
+   "text_en": "The white wolf mech SHIN has arrived.\n\n- Built for melee. \"Wolfpack\": every melee hit speeds up the next strike\n- New melee parts: Great Blade, Twin Fang Claws, Chain Sickle, Whetstone, Scabbard, Wolf Crest\n- New melee upgrades and relics\n- Phantom buffed: melee right after an evade always crits\n\nDevelop it from \"Melee Arms\" > \"Mech: Shin\" (from Tier 3).\nShin also has a secret circuit. Check the Circuit Book for a hint."
+  }
  ]
 }
