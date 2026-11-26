@@ -39,5 +39,29 @@
    }
   }
  ],
- "mail": []
+ "mail": [],
+ "news2": [
+  {
+   "id": "n_109tower",
+   "from": "2026-11-27",
+   "ver": "1.0.9",
+   "t": "深淵の塔：季と2部隊",
+   "b": "深淵の塔が、2週間ごとの「季」になりました。\n\n・到達のごほうびを、季ごとにもらえます\n・季の順位表ができました。順位に応じて変換コインがもらえます\n・今季の追い風：その季のピックアップと同じ型の仲間は、塔で威力が上がります\n・30階からは2部隊で戦います。前半はいつものチーム、後半は「第2部隊」です\n\n第2部隊は、編成の画面の上の「第2部隊」から組めます。",
+   "en": {
+    "t": "Abyss Tower: seasons and two squads",
+    "b": "Abyss Tower now runs in 2-week seasons.\n\n- Floor rewards can be earned again each season\n- A season ranking has been added, with Swap Coins for your rank\n- Season tailwind: allies who share the pickup's type deal more damage in the tower\n- From floor 30, two squads fight: your usual team first, then Squad 2\n\nBuild Squad 2 from the \"Squad 2\" tab at the top of the Build screen."
+   }
+  },
+  {
+   "id": "n_109bind",
+   "from": "2026-11-27",
+   "ver": "1.0.9",
+   "t": "新モード「しばり戦」",
+   "b": "TIER 3 と物語の仲間だけで挑む、週替わりの3面です（第1章を突破すると開きます）。\n控えと助っ人は使えません。\n\n・初めての突破で、1面ごとにクリスタル\n・3面すべて突破で、変換コイン\n\n変換コインは、星5の仲間の専用部品の強化（+3 まで）にも使えます。強化の画面で、特技の今の数字と強化後の数字が見られます。\n\nロビーの「モード」から入れます。部隊は、編成の画面の上の「しばり戦」から組めます。",
+   "en": {
+    "t": "New mode: Limited Rule",
+    "b": "Three weekly stages for TIER 3 and story allies only (opens after you clear Chapter 1).\nNo reserves and no helpers.\n\n- Crystals for the first clear of each stage\n- A Swap Coin for clearing all three\n\nSwap Coins also upgrade the signature parts of 5-star allies (up to +3). The upgrade screen shows the trait's numbers now and after.\n\nEnter from \"Mode\" in the Lobby. Build the squad from the \"Limited Rule\" tab at the top of the Build screen."
+   }
+  }
+ ]
 }
