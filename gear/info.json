@@ -67,5 +67,64 @@
     "b": "Three weekly stages for TIER 3 and story allies only (opens after you clear Chapter 1).\nNo reserves and no helpers.\n\n- Crystals for the first clear of each stage\n- A Swap Coin for clearing all three\n\nSwap Coins also upgrade the signature parts of 5-star allies (up to +3). The upgrade screen shows the trait's numbers now and after.\n\nEnter from \"Mode\" in the Lobby. Build the squad from the \"Limited Rule\" tab at the top of the Build screen."
    }
   }
- ]
+ ],
+ "gacha": {
+  "extra": [
+   {
+    "h": "kuro",
+    "from": 0,
+    "pu": [
+     0,
+     1
+    ],
+    "main": [
+     0,
+     1
+    ]
+   },
+   {
+    "h": "gin",
+    "from": 1,
+    "pu": [],
+    "main": []
+   },
+   {
+    "h": "tsubaki",
+    "from": 2,
+    "pu": [],
+    "main": [
+     2
+    ]
+   }
+  ],
+  "extra2": [
+   {
+    "h": "kuro",
+    "from": 0,
+    "pu": [
+     0,
+     1
+    ],
+    "main": [
+     0
+    ]
+   },
+   {
+    "h": "gin",
+    "from": 1,
+    "pu": [],
+    "main": [
+     1
+    ]
+   },
+   {
+    "h": "tsubaki",
+    "from": 2,
+    "pu": [],
+    "main": [
+     2
+    ]
+   }
+  ]
+ }
 }
